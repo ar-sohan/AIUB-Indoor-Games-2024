@@ -1,0 +1,7 @@
+User Name: nyme
+Full Name: nyme ahmed
+Gender: Male
+Faculty ID: 2345
+Password: 1234
+Meeting Schedule: Morning
+Progress Report Time: 10 am

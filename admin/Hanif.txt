@@ -1,0 +1,7 @@
+User Name: hanif
+Full Name: Ebrahim Hnif
+Gender: Male
+Faculty ID: 23455
+Password: 1234
+Meeting Schedule: Morning
+Progress Report Time: 10 am
